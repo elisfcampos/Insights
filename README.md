@@ -1,2 +1,3 @@
 # Insights
- Fatec-MAV2 - Projeto de Biblioteca e Matriz de Leds
+ Fatec-MAV2 - Projeto de Biblioteca e Matriz de Leds, desenvolvida em grupo.
+Este projeto do Segundo Semestre do Curso de Manufatura Avançada, tem como objetivo do projeto, desenvolver uma Matriz de LED, destinada ao uso indoor. Além disso, será elaborada uma Biblioteca exclusiva para integração com o Sketch do cliente (programa do usuário), permitindo o controle completo da exibição dos LEDs. Ambos, a matriz e a biblioteca, serão desenvolvidos de forma colaborativa pelo grupo, atendendo às necessidades específicas do projeto e garantindo uma solução customizada e eficiente para uma variedade de aplicações.
